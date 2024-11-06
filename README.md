@@ -69,21 +69,5 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
 Vague prompt- 'Tell me about dogs' Improved prompt- 'Provide me a general overview of dogs, their characteristics, different breeds and why they are best suited as pets.' -The improved prompt gives the user intensive and extensive information on dogs allowing him to compare and contrast diversely since the response is clearly specified and the user is able to make a decision confidently based on comprehensive information.
 
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
+
 
